@@ -4,7 +4,7 @@
   "name": "Bambu Studio",
   "description": "Prepare and manage 3D prints.",
   "version": "02.07.01.62",
-  "image": "ghcr.io/containerpak/bambu-studio@sha256:8a81660c6e5397466ee7e58e847e25659eb8e4ba031241d6097b6e516eb5f5c6",
+  "image": "ghcr.io/containerpak/bambu-studio@sha256:f6659231841e8e1abdb9b6b202f75762963694ed34e204c773aeed067da78b3e",
   "binaries": [
     "/usr/bin/bambu-studio"
   ],
